@@ -1,4 +1,8 @@
-#javascript-title:hover{
+.card{
+  margin:15px;
+}
+
+.card-title:hover{
   text-decoration: underline;
   cursor: pointer;
 }
