@@ -1,0 +1,8 @@
+#javascript-title:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.card-text{
+  display: none;
+}
