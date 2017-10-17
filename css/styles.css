@@ -1,5 +1,6 @@
 .card{
   margin:15px;
+  width: 600px;
 }
 
 .card-title:hover{
@@ -9,4 +10,8 @@
 
 .card-text{
   display: none;
+}
+
+.container{
+  margin: 0;
 }
